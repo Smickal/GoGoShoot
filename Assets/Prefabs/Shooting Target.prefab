@@ -50,10 +50,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isMoving: 0
   speed: 1
-  headPoint: 200
+  headPoint: 500
   bodyPoint: 100
   healthPoint: 3
-  explosionEffect: {fileID: 2791104432105993569}
+  explosionEffects: {fileID: 0}
 --- !u!1 &2782746944052975071
 GameObject:
   m_ObjectHideFlags: 0
@@ -499,12 +499,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57f88dbdb44f67a45857b36e6f282ef9, type: 3}
---- !u!198 &2791104432105993569 stripped
-ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 4773401188440715865, guid: 57f88dbdb44f67a45857b36e6f282ef9,
-    type: 3}
-  m_PrefabInstance: {fileID: 7243329331477186360}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2791104432105993582 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4773401188440715862, guid: 57f88dbdb44f67a45857b36e6f282ef9,

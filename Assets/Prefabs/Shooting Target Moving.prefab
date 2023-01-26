@@ -260,7 +260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isMoving: 1
   speed: 1
-  headPoint: 200
+  headPoint: 500
   bodyPoint: 100
   healthPoint: 3
   explosionEffects: {fileID: 4773401188440715867, guid: 57f88dbdb44f67a45857b36e6f282ef9,

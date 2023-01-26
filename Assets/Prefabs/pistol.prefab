@@ -681,6 +681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f956b75c64187b647a16c5c3dfeae86e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rightController: {fileID: 0}
   bullet: {fileID: 8168707950741583983, guid: 5e5f6ed4bcc47ca4bb215e27fb3f8dbb, type: 3}
   spawnPoint: {fileID: 1931011043342724617}
   fireSpeed: 40
@@ -825,11 +826,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5420940a3b6b8944285f41d343b74dd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxAmmo: 10
+  maxAmmo: 12
   reloadSpeed: 2
   rotationTreshold: 90
   ammoCountOBJ: {fileID: 4447329129328338668}
-  radialOBJ: {fileID: 1623539311}
+  radialOBJ: {fileID: 786399269}
   hintReload: {fileID: 295673637109155150}
   ammoCounter: {fileID: 6793827107129198376}
   radialImage: {fileID: 786399271}
